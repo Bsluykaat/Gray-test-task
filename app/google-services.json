@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209788560280",
+    "project_id": "webtest-b7488",
+    "storage_bucket": "webtest-b7488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209788560280:android:23f0a727bd72f2a14b01ed",
+        "android_client_info": {
+          "package_name": "com.work.webtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209788560280-h14vvd82ikf9u6ug1e6pelbp01veaca9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEyCZZYwkE3sy0tQ54qvVmb5d0D0KxAOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209788560280-h14vvd82ikf9u6ug1e6pelbp01veaca9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

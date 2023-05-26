@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WebTest</string>
+    <string name="reload_string">Сбросить</string>
+    <string name="success">Сброс успешен!</string>
+    <string name="yesterday">Прошлый раз: %d</string>
+    <string name="today">Кликов сейчас: %d</string>
+    <string name="highScore">Рекорд: %d</string>
+    <string name="howMuchTime">В игре: %s</string>
+    <string name="exit">Выйти</string>
+    <string name="requestion">Вы уверены что хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>
